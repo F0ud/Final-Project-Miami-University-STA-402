@@ -1,7 +1,7 @@
 # Final-Project-Miami-University-STA-402
 This is my source code for the final project for the Statistical Programming (STA 402) class at Miami University- Oxford
 
-
+Data Information:
 Play-by-play data of the 2015-2016 to 2018-2019 NBA seasons.
 
 Column Name                                 Description                                                  Added Data
